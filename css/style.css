@@ -22,3 +22,8 @@
 nav img {
     max-width: 100px;
 }
+
+    
+.nav-link:hover {
+    color: #fff
+}
